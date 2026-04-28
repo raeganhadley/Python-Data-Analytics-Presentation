@@ -7,8 +7,11 @@ from sklearn.linear_model import LinearRegression, LogisticRegression
 from sklearn.metrics import mean_squared_error, r2_score, accuracy_score, classification_report, confusion_matrix
 from sklearn.preprocessing import StandardScaler
 
-# Research Question:
+# Research Question 1:
 # Does the rating determine the movie revenue?
+
+# Research Question 2:
+# Can rating and vote count predict whether a movie is high revenue or low revenue?
 
 # ------------------- Functions -----------------------------------
 
